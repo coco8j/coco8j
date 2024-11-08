@@ -8,6 +8,7 @@ Based on these strengths, I am constantly striving to provide more considerate s
 - [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) 
 - [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
 - [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
+- [💣BombYangGang](https://github.com/allansad/BombYangGang) : 미니프로젝트, 지뢰찾기
 
 
 ## My Tools ⚒️
