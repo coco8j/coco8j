@@ -8,7 +8,7 @@ Based on these strengths, I am constantly striving to provide more considerate s
 - [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) 
 - [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
 - [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
-- [💣BombYangGang](https://github.com/allansad/BombYangGang) : [미니프로젝트] 지뢰찾기 - Next.js, TypeScript 등을 이용한 마이그레이션 진행중 ⭐️
+- [💣BombYangGang](https://github.com/allansad/BombYangGang) : [미니프로젝트] 지뢰찾기 - Next.js, TypeScript, Redux, Tailwind
 
 
 ## My Tools ⚒️
