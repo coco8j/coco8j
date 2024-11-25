@@ -13,33 +13,22 @@
 
 </span>
 
-
- ### My Blog 🌟  
-📚 [**coco-study.site**](https://coco-study.site/)  
-
 ## Projects 🪄
-🐟 [Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) 
+- [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) <br>
+  - 사용자 입력 행동에 맞춰 최적화되는 안드로이드 커스텀 키보드, 머신러닝을 통해 동적으로 레이아웃을 조정합니다.<br>
+  - 기술 스택: Android, TensorFlow Lite, Kotlin <br>
 
-사용자 입력 행동에 맞춰 최적화되는 안드로이드 커스텀 키보드, 머신러닝을 통해 동적으로 레이아웃을 조정합니다.
+- [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
+  - 소규모 레스토랑을 위한 주문 관리 플랫폼, 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 클라이언트 애플리케이션. <br>
+  - 기술 스택: React, Zustand, TypeScript <br>
 
-	기술 스택: Android, TensorFlow Lite, Kotlin
+- [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
+  - DeliOrder의 서버 백엔드, 클라이언트와의 원활한 통신과 데이터베이스 처리를 담당합니다. <br>
+  - 기술 스택: Node.js, Express, MongoDB <br>
 
-📦 [Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
-소규모 레스토랑을 위한 주문 관리 플랫폼, 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 클라이언트 애플리케이션.
-
-	기술 스택: React, Zustand, TypeScript
-
-📦 [Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
-
-DeliOrder의 서버 백엔드, 클라이언트와의 원활한 통신과 데이터베이스 처리를 담당합니다.
-
-	기술 스택: Node.js, Express, MongoDB
-
-💣 [BombYangGang](https://github.com/allansad/BombYangGang)
-
-웹 기반 지뢰찾기 게임으로, 클래식한 게임 플레이에 24시간마다 새로운 맵에서 친구들과 경쟁할 수 있는 챌린지 모드를 추가했습니다.
-
-	기술 스택: Next.js, TypeScript, Redux, Tailwind CSS
+- [💣oji-minesweeper-web 오늘의 지뢰](https://github.com/OjiWorks/oji-minesweeper-web)
+  - 웹 기반 지뢰찾기 게임으로, 클래식한 게임 플레이에 24시간마다 새로운 맵에서 친구들과 경쟁할 수 있는 챌린지 모드를 추가했습니다. <br>
+  - 기술 스택: Next.js, TypeScript, Redux, Tailwind CSS <br>
 
 
 
