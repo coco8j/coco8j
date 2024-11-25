@@ -14,7 +14,7 @@
 
 </span>
 
-## Projects 🪄
+### Projects 🪄
 - [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) <br>
   - 사용자 입력 행동에 맞춰 최적화되는 안드로이드 커스텀 키보드, 머신러닝을 통해 동적으로 레이아웃을 조정합니다.<br>
   - 기술 스택: Android, TensorFlow Lite, Kotlin <br>
@@ -33,7 +33,7 @@
 
 
 
-## My Tools ⚒️
+### My Tools ⚒️
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=black"> <img src="https://img.shields.io/badge/zustand-54283c?style=for-the-badge&logo=zustand&logoColor=black"> <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
