@@ -1,14 +1,46 @@
 ## Hi there 👋
-Hi, I'm a developer who enjoys problem solving and logical thinking.<br> 
-I prefer to solve problems by getting to the heart of the matter through conversation. <br> 
-I value good communication and cooperation, and I enjoy the process of solving problems step by step. <br> 
-Based on these strengths, I am constantly striving to provide more considerate services.<br> 
+<span style="font-size:small;">
 
-## Projects
-- [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) 
-- [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
-- [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
-- [💣BombYangGang](https://github.com/allansad/BombYangGang) : [미니프로젝트] 지뢰찾기 - Next.js, TypeScript, Redux, Tailwind
+문제 해결과 논리적 사고를 사랑하며, 개발이라는 분야가 가진 협력과 지식 공유의 문화에 매력을 느낍니다. 🚀  
+
+개발의 가장 큰 매력은 지식을 나누고 함께 성장하며, ‘언어’를 통해 구조를 짜고 무언가를 창작하는 과정에 있다고 생각합니다.  
+
+또한 좋은 서비스를 제공하는 것만큼 좋은 코드를 작성하는 것도 중요하다고 믿습니다. 
+
+좋은 코드를 작성하는 것은 서비스를 받는 클라이언트는 물론 제가 동료들과 협업하는 과정에서 보여줄 수 있는 배려의 표현이자 목표입니다. 
+
+물론 “좋은 코드”의 정의는 상황에 따라 달라질 수 있지만, 그 변화 속에서 지속적으로 노력할 수 있다는 점이 개발자로서 가장 보람찬 목표 중 하나라고 느낍니다.
+
+</span>
+
+
+ ### My Blog 🌟  
+📚 [**coco-study.site**](https://coco-study.site/)  
+
+## Projects 🪄
+🐟 [Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) 
+
+사용자 입력 행동에 맞춰 최적화되는 안드로이드 커스텀 키보드, 머신러닝을 통해 동적으로 레이아웃을 조정합니다.
+
+	기술 스택: Android, TensorFlow Lite, Kotlin
+
+📦 [Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
+소규모 레스토랑을 위한 주문 관리 플랫폼, 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 클라이언트 애플리케이션.
+
+	기술 스택: React, Zustand, TypeScript
+
+📦 [Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
+
+DeliOrder의 서버 백엔드, 클라이언트와의 원활한 통신과 데이터베이스 처리를 담당합니다.
+
+	기술 스택: Node.js, Express, MongoDB
+
+💣 [BombYangGang](https://github.com/allansad/BombYangGang)
+
+웹 기반 지뢰찾기 게임으로, 클래식한 게임 플레이에 24시간마다 새로운 맵에서 친구들과 경쟁할 수 있는 챌린지 모드를 추가했습니다.
+
+	기술 스택: Next.js, TypeScript, Redux, Tailwind CSS
+
 
 
 ## My Tools ⚒️
