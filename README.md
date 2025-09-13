@@ -22,7 +22,7 @@
 >   - 기술 스택: Android, TensorFlow Lite, Kotlin <br>
 
 > [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
->   - 소규모 레스토랑을 위한 주문 관리 플랫폼, 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 클라이언트 애플리케이션. <br>
+>   - 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 파일 작업 자동화 매크로 애플리케이션 클라이언트입니다. <br>
 >   - 기술 스택: React, Zustand, TypeScript <br>
 
 > [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
