@@ -14,20 +14,3 @@
  ### My Blog 🌟  
 > 📚 [**dev-coco.me**](https://dev-coco.me/)  
 
-</span>
-
-### Projects 🪄
-> [🐟Tuna keyboard/Android-App](https://github.com/coco8j/TunaKeyboard-Andorid-App) <br>
->   - 사용자 입력 행동에 맞춰 최적화되는 안드로이드 커스텀 키보드, 머신러닝을 통해 동적으로 레이아웃을 조정합니다.<br>
->   - 기술 스택: Android, TensorFlow Lite, Kotlin <br>
-
-> [📦Deliorder/Client](https://github.com/DeliOrder/DeliOrder-Client)
->   - 직관적인 UI/UX와 효율적인 워크플로우에 중점을 둔 파일 작업 자동화 매크로 애플리케이션 클라이언트입니다. <br>
->   - 기술 스택: React, Zustand, TypeScript <br>
-
-> [📦Deliorder/Server](https://github.com/DeliOrder/DeliOrder-Server)
->   - DeliOrder의 서버 백엔드, 클라이언트와의 원활한 통신과 데이터베이스 처리를 담당합니다. <br>
->   - 기술 스택: Node.js, Express, MongoDB <br>
-
-
-
